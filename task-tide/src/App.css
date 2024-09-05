@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&family=Nerko+One&display=swap');
+
+
+
+.app{
+  display: grid;
+  grid-template-rows: 150px auto;
+  font-size: xxx-large;
+  font-family: "Nerko One";  
+  text-align: center;
+  background-color: blueviolet;
+
+
+  
+}
+
+
+.app_main{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 8%;
+  
+}
+
+.task_column{
+  width: 33.33%;
+  background-color: rgb(255, 153, 0);
+  margin: 20px;
+  text-align: center;
+  font-size: x-large;
+  font-family: "Matemasie";  
+  color: rgb(255, 213, 172);
+
+}
+
+.dev_column{
+  width: 33.33%;
+  background-color: rgb(37, 153, 255); ;
+  margin: 20px;
+  text-align: center;
+  font-size: x-large;
+  font-family: "Matemasie";  
+  color:  rgb(184, 222, 255);
+}
+
+.complete_column{
+  width: 33.33%;
+  background-color: rgb(250, 54, 126); 
+  margin: 20px;
+  text-align: center;
+  font-size: x-large;
+  font-family: "Matemasie";  
+  color: rgb(254, 200, 216);
+
+}
+
+
+.app_header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+
+
+.app_input{
+  font-size: 20px;
+  font-weight: 500;
+  padding:8px 12px;
+  width: 100%;
+  font-family: "Nerko One";  
+
+  
+}
+
+.app_header > form{
+   width:40%;
+}
+
+.input_task{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Nerko One";  
+}
+
+.enter_task{
+  border-radius: 5px;
+  font-size: large;
+  font-family: "Nerko One";  
+  cursor: pointer;
+  height: 30px;
+}
+
+.task_status{
+  border-radius: 5px;
+  font-size: large;
+  font-family: "Nerko One";  
+  cursor: pointer;
+  height: 30px;
+}

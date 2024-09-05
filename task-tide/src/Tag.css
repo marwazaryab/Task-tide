@@ -1,0 +1,14 @@
+
+.tag{
+    width: 15%;
+    font-size: large;
+    background-color: rgb(255, 153, 0);
+    margin: 2px;
+    text-align: center;
+    font-size: medium;
+    font-family: "Nerko One";  
+    color: rgb(255, 213, 172);
+    height: 30px; 
+    border-radius: 5px;
+  
+  }
