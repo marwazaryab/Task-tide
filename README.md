@@ -1,5 +1,5 @@
 # 🍄 Task Tide #
-As an engineering student, I am constantly working on ways to improve my technical skills. The inspiration behind this project was to make a task list for every current project I am working on (While learning React and Javascript). 
+As an engineering student, I am constantly working on ways to improve my technical skills. The inspiration behind this project was to make a task list for every current project I am working on as a way to learn React as well. 
 
 Task Tide is a web application made by React and Javascript to store a users technical projects in a kanban board style. 
 
